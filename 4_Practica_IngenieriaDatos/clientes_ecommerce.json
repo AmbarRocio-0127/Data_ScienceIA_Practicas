@@ -1,0 +1,122 @@
+[
+  {
+    "id_cliente": "CL01",
+    "nombre": "Ana Torres",
+    "ciudad": "Bogotá",
+    "cliente_premium": true
+  },
+  {
+    "id_cliente": "CL02",
+    "nombre": "Luis Gómez",
+    "ciudad": "Medellín",
+    "cliente_premium": true
+  },
+  {
+    "id_cliente": "CL03",
+    "nombre": "Marta Ruiz",
+    "ciudad": "Cartagena",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL04",
+    "nombre": "Carlos Peña",
+    "ciudad": "Barranquilla",
+    "cliente_premium": true
+  },
+  {
+    "id_cliente": "CL05",
+    "nombre": "Sofía Díaz",
+    "ciudad": "Barranquilla",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL06",
+    "nombre": "Jorge León",
+    "ciudad": "Cali",
+    "cliente_premium": true
+  },
+  {
+    "id_cliente": "CL07",
+    "nombre": "Elena Ríos",
+    "ciudad": "Medellín",
+    "cliente_premium": true
+  },
+  {
+    "id_cliente": "CL08",
+    "nombre": "Pedro Salas",
+    "ciudad": "Bogotá",
+    "cliente_premium": true
+  },
+  {
+    "id_cliente": "CL09",
+    "nombre": "Laura Nieto",
+    "ciudad": null,
+    "cliente_premium": true
+  },
+  {
+    "id_cliente": "CL10",
+    "nombre": "Diego Vargas",
+    "ciudad": "Bogotá",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL11",
+    "nombre": "Paula Cruz",
+    "ciudad": "Cali",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL12",
+    "nombre": "Andrés Rojas",
+    "ciudad": "Barranquilla",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL13",
+    "nombre": "Camila Duarte",
+    "ciudad": "Bogotá",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL14",
+    "nombre": "Felipe Soto",
+    "ciudad": "Bogotá",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL15",
+    "nombre": "Isabel Marín",
+    "ciudad": "Medellín",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL16",
+    "nombre": "Tomás Reyes",
+    "ciudad": "Cartagena",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL17",
+    "nombre": "Valeria Ortiz",
+    "ciudad": "Bogotá",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL18",
+    "nombre": "Mateo Cano",
+    "ciudad": "Bogotá",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL19",
+    "nombre": "Daniela Paz",
+    "ciudad": "Barranquilla",
+    "cliente_premium": false
+  },
+  {
+    "id_cliente": "CL20",
+    "nombre": "Sebastián Luna",
+    "ciudad": "Barranquilla",
+    "cliente_premium": false
+  }
+]

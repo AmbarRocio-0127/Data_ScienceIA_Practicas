@@ -1,0 +1,166 @@
+id_pedido,id_producto,cantidad,fecha,id_cliente,metodo_pago
+1,SKU03,4.0,2025-06-12,CL14,Tarjeta de débito
+2,SKU08,1.0,2025-05-10,CL17,Tarjeta de crédito
+3,SKU01,4.0,2025-01-18,CL12,Tarjeta de débito
+4,SKU04,4.0,2025-04-15,CL02,Tarjeta de crédito
+5,SKU06,,2025-06-27,CL18,PayPal
+6,SKU01,1.0,2025-02-01,CL05,Tarjeta de crédito
+7,SKU08,3.0,2025-04-13,CL06,Tarjeta de débito
+8,SKU01,2.0,2025-01-20,CL16,Tarjeta de débito
+9,SKU02,,2025-05-24,CL04,Tarjeta de débito
+10,SKU06,4.0,2025-03-16,CL05,Transferencia
+11,SKU07,,2025-04-09,CL11,Tarjeta de crédito
+12,SKU03,1.0,2025-05-06,CL16,Contra entrega
+13,SKU04,3.0,2025-05-23,CL19,Tarjeta de crédito
+14,SKU03,3.0,2025-03-27,CL06,Contra entrega
+15,SKU05,1.0,2025-02-13,CL08,Tarjeta de débito
+16,SKU07,1.0,2025/06/24,CL12,Contra entrega
+17,SKU04,1.0,2025/06/01,CL14,PayPal
+18,SKU08,4.0,2025-06-20,CL17,Tarjeta de débito
+19,SKU03,1.0,2025-04-23,CL18,Transferencia
+20,SKU01,1.0,2025-03-08,CL10,Tarjeta de crédito
+21,SKU07,1.0,2025-04-11,CL08,PayPal
+22,SKU03,,2025-01-13,CL05,Contra entrega
+23,SKU08,2.0,2025-04-04,CL01,PayPal
+24,SKU07,,2025-03-20,CL16,Contra entrega
+25,SKU05,1.0,2025-04-08,CL05,Tarjeta de crédito
+26,SKU05,3.0,2025-06-14,CL19,Contra entrega
+27,SKU07,4.0,2025-02-05,CL09,Tarjeta de crédito
+28,SKU07,1.0,2025-01-07,CL04,Tarjeta de débito
+29,SKU02,2.0,2025-02-02,CL04,PayPal
+30,SKU07,2.0,2025-06-09,CL16,Tarjeta de débito
+31,SKU07,1.0,2025-06-04,CL07,Tarjeta de crédito
+32,SKU01,,2025-01-17,CL13,Contra entrega
+33,SKU03,2.0,2025-06-28,CL08,Tarjeta de crédito
+34,SKU04,1.0,2025-03-21,CL13,PayPal
+35,SKU08,1.0,2025-05-20,CL19,Contra entrega
+36,SKU06,2.0,2025-03-16,CL17,Contra entrega
+37,SKU04,3.0,2025-02-21,CL03,PayPal
+38,SKU07,1.0,2025-06-16,CL04,Transferencia
+39,SKU01,,2025-05-13,CL15,Transferencia
+40,SKU02,1.0,2025-01-13,CL08,Tarjeta de crédito
+41,SKU04,4.0,2025-04-20,CL09,Tarjeta de débito
+42,SKU07,3.0,2025-05-05,CL13,Tarjeta de crédito
+43,SKU01,1.0,2025-05-06,CL16,Contra entrega
+44,SKU04,2.0,2025-03-04,CL15,Transferencia
+45,SKU07,4.0,2025-05-15,CL10,Tarjeta de crédito
+46,SKU03,2.0,2025-03-21,CL11,Tarjeta de débito
+47,SKU02,1.0,2025-01-21,CL18,Contra entrega
+48,SKU07,1.0,2025-02-12,CL15,Tarjeta de débito
+49,SKU06,2.0,2025-03-08,CL12,Tarjeta de crédito
+50,SKU06,2.0,2025-02-09,CL17,Contra entrega
+51,SKU04,2.0,2025-04-08,CL08,Transferencia
+52,SKU08,4.0,2025-04-28,CL13,PayPal
+53,SKU03,2.0,2025-01-26,CL13,Tarjeta de débito
+54,SKU01,3.0,2025-01-05,CL12,Contra entrega
+55,SKU01,,2025-06-29,CL13,Tarjeta de crédito
+56,SKU03,2.0,2025-02-18,CL04,Tarjeta de crédito
+57,SKU06,1.0,2025-05-27,CL06,Transferencia
+58,SKU01,2.0,2025-04-17,CL10,Contra entrega
+59,SKU04,,2025-01-05,CL08,Tarjeta de crédito
+60,SKU02,2.0,2025-02-08,CL14,Contra entrega
+61,SKU08,3.0,2025-02-09,CL16,PayPal
+62,SKU05,1.0,2025-01-19,CL10,Tarjeta de débito
+63,SKU02,3.0,2025-03-11,CL07,Tarjeta de débito
+64,SKU01,,2025-03-12,CL19,Transferencia
+65,SKU03,1.0,2025-03-01,CL02,Contra entrega
+66,SKU05,2.0,2025-06-26,CL14,Contra entrega
+67,SKU07,3.0,2025-02-26,CL03,Tarjeta de crédito
+68,SKU06,1.0,2025-01-06,CL20,Transferencia
+69,SKU08,,2025-01-05,CL06,Tarjeta de crédito
+70,SKU04,1.0,2025-03-21,CL20,Transferencia
+71,SKU06,3.0,2025-02-14,CL01,Contra entrega
+72,SKU01,1.0,2025-02-16,CL13,Contra entrega
+73,SKU07,2.0,2025-05-12,CL07,Transferencia
+74,SKU06,2.0,2025-04-14,CL03,PayPal
+75,SKU06,1.0,2025-01-07,CL19,Contra entrega
+76,SKU01,1.0,2025-02-24,CL07,Contra entrega
+77,SKU06,2.0,2025-02-01,CL17,Transferencia
+78,SKU08,2.0,2025-06-16,CL16,Tarjeta de débito
+79,SKU07,2.0,2025-05-06,CL13,Tarjeta de crédito
+80,SKU08,1.0,2025-03-28,CL07,PayPal
+81,SKU03,1.0,2025-04-07,CL08,Tarjeta de crédito
+82,SKU01,2.0,2025-05-28,CL19,Transferencia
+83,SKU04,2.0,2025-05-22,CL16,Transferencia
+84,SKU01,3.0,2025-02-03,CL01,Transferencia
+85,SKU06,,2025-06-03,CL13,Tarjeta de crédito
+86,SKU05,3.0,2025-06-17,CL04,Transferencia
+87,SKU02,3.0,2025-01-20,CL07,Tarjeta de débito
+88,SKU03,2.0,2025-01-27,CL05,PayPal
+89,SKU04,2.0,2025-02-04,CL17,Transferencia
+90,SKU04,3.0,2025-06-16,CL02,Tarjeta de crédito
+91,SKU04,2.0,2025-01-15,CL05,Transferencia
+92,SKU01,1.0,2025-03-01,CL04,Transferencia
+93,SKU08,3.0,2025-04-21,CL17,PayPal
+94,SKU03,4.0,2025-04-24,CL12,Transferencia
+95,SKU04,2.0,2025-01-06,CL15,Transferencia
+96,SKU04,1.0,2025-03-30,CL19,Tarjeta de débito
+97,SKU01,3.0,2025-06-27,CL09,Tarjeta de débito
+98,SKU01,1.0,2025-02-21,CL15,Contra entrega
+99,SKU03,2.0,2025-05-22,CL05,Contra entrega
+100,SKU02,1.0,2025-02-01,CL13,Tarjeta de débito
+101,SKU01,2.0,2025-02-26,CL03,Tarjeta de crédito
+102,SKU04,4.0,2025-05-28,CL07,Contra entrega
+103,SKU01,2.0,2025-03-23,CL13,PayPal
+104,SKU07,,2025-01-12,CL02,Contra entrega
+105,SKU08,1.0,2025-06-13,CL06,PayPal
+106,SKU08,1.0,2025-03-16,CL09,Transferencia
+107,SKU05,2.0,2025-01-14,CL13,Contra entrega
+108,SKU02,3.0,2025-02-05,CL16,Tarjeta de débito
+109,SKU05,4.0,2025-01-29,CL10,Transferencia
+110,SKU04,3.0,2025-04-19,CL02,Tarjeta de crédito
+111,SKU08,3.0,2025/02/20,CL07,PayPal
+112,SKU06,1.0,2025-01-05,CL14,Tarjeta de débito
+113,SKU03,2.0,2025-02-24,CL02,PayPal
+114,SKU01,,2025-03-05,CL08,Contra entrega
+115,SKU07,2.0,2025-06-29,CL07,Tarjeta de débito
+116,SKU06,1.0,2025-03-26,CL16,Tarjeta de débito
+117,SKU05,1.0,2025-03-04,CL03,PayPal
+118,SKU06,4.0,2025-02-12,CL18,Tarjeta de crédito
+119,SKU05,2.0,2025-06-06,CL09,Tarjeta de débito
+120,SKU02,2.0,2025-04-07,CL01,Transferencia
+121,SKU04,4.0,2025-04-08,CL06,PayPal
+122,SKU03,4.0,2025-01-13,CL17,Tarjeta de crédito
+123,SKU02,,2025-01-29,CL06,Tarjeta de crédito
+124,SKU02,1.0,2025-02-15,CL11,PayPal
+125,SKU08,4.0,2025-04-11,CL10,Contra entrega
+126,SKU02,3.0,2025-01-02,CL09,PayPal
+127,SKU08,2.0,2025-03-31,CL11,PayPal
+128,SKU06,1.0,2025-01-24,CL07,Tarjeta de débito
+129,SKU01,1.0,2025-02-12,CL11,Tarjeta de débito
+130,SKU01,1.0,2025-02-14,CL02,Contra entrega
+131,SKU04,3.0,2025-06-09,CL05,Contra entrega
+132,SKU04,1.0,2025-03-20,CL04,PayPal
+133,SKU04,4.0,2025-03-17,CL13,Tarjeta de crédito
+134,SKU04,3.0,2025-02-28,CL10,Transferencia
+135,SKU04,,2025-04-28,CL03,Tarjeta de débito
+136,SKU03,,2025-01-13,CL20,Transferencia
+137,SKU02,,2025-02-12,CL18,Tarjeta de crédito
+138,SKU01,2.0,2025-05-14,CL01,Tarjeta de crédito
+139,SKU02,1.0,2025-05-27,CL15,Contra entrega
+140,SKU07,,2025-03-09,CL15,PayPal
+141,SKU04,1.0,2025-02-06,CL10,Transferencia
+142,SKU06,2.0,2025-04-01,CL18,Tarjeta de crédito
+143,SKU06,1.0,2025-01-21,CL18,Tarjeta de débito
+144,SKU08,,2025-03-16,CL11,Tarjeta de débito
+145,SKU08,2.0,2025-06-25,CL09,PayPal
+146,SKU08,4.0,2025-02-28,CL18,PayPal
+147,SKU04,1.0,2025-01-25,CL06,Tarjeta de débito
+148,SKU05,4.0,2025-06-02,CL16,Tarjeta de débito
+149,SKU05,1.0,2025-03-17,CL03,Tarjeta de crédito
+150,SKU04,1.0,2025/06/28,CL18,Contra entrega
+151,SKU04,4.0,2025-06-25,CL14,Transferencia
+152,SKU05,1.0,2025-04-21,CL20,PayPal
+153,SKU07,2.0,2025-06-21,CL14,PayPal
+154,SKU07,2.0,2025-05-31,CL16,Tarjeta de débito
+155,SKU01,2.0,2025-04-06,CL12,Contra entrega
+156,SKU07,1.0,2025-03-09,CL17,Tarjeta de débito
+157,SKU03,3.0,2025-06-17,CL04,Tarjeta de débito
+158,SKU03,1.0,2025-03-22,CL19,Contra entrega
+159,SKU02,1.0,2025-06-22,CL02,Contra entrega
+160,SKU03,4.0,2025-04-07,CL06,Transferencia
+71,SKU06,3.0,2025-02-14,CL01,Contra entrega
+140,SKU07,,2025-03-09,CL15,PayPal
+7,SKU08,3.0,2025-04-13,CL06,Tarjeta de débito
+4,SKU04,4.0,2025-04-15,CL02,Tarjeta de crédito
+48,SKU07,1.0,2025-02-12,CL15,Tarjeta de débito
